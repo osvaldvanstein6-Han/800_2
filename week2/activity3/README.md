@@ -169,6 +169,4 @@ https://github.com/osvaldvanstein6-Han/800_2
 
 Han
 
-MSE800 – Software Engineering
 
-Week 2 Activity 3
