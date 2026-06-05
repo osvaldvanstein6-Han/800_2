@@ -153,7 +153,7 @@ Foreign keys are used to establish relationships between entities.
 
 ## Screenshot
 
-![ER_diagram_sutdnet_course_lecturer](ER_diagram_student_course_lecturer.drawio.png)
+![ER_diagram](student_course_lecturer.png)
 
 ## Author
 
