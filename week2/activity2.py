@@ -9,7 +9,7 @@ class Student:
         self.student_id = student_id
 
     def display_info(self):
-        return f"Name: {self.name}, Age: {self.age}"
+        return f"Name: {self.name}, Age: {self.age}, Student ID: {self.student_id}"
 
 
 def collect_students():
