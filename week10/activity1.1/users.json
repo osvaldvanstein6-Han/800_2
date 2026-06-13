@@ -1,0 +1,16 @@
+[
+  {
+    "full_name": "HHHH",
+    "dob": "1996-09-12",
+    "email": "123@1.com",
+    "password": "123456",
+    "reset_code": null
+  },
+  {
+    "full_name": "JJJJ",
+    "dob": "1997-09-12",
+    "email": "123@2.com",
+    "password": "123456",
+    "reset_code": null
+  }
+]
