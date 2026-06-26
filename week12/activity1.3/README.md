@@ -34,7 +34,7 @@ source .venv/bin/activate
 2. Run the application:
 
 ```bash
-python app.py
+python flask_name_variable.py
 ```
 
 3. Open your browser:
