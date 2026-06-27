@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Image Display</title>
+</head>
+
+<body>
+    <h1>My Flask Image Web App</h1>
+
+    <p>This image is loaded from the local static folder.</p>
+
+    <img src="{{ url_for('static', filename='image.jpg') }}" alt="Local Image" width="400">
+</body>
+</html>
